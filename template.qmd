@@ -1,10 +1,5 @@
 ---
-format: 
-  revealjs:
-    theme: [default, earth.scss]
-    width: 1280
-    height: 720
-    code-line-numbers: false
+format: earth-revealjs
 ---
 
 ## .theme-title1 {.theme-title1 .center}
