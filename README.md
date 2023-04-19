@@ -1,5 +1,7 @@
 # Quarto Revealjs Earth theme
 
+![](demo.gif)
+
 A [Quarto](https://quarto.org) extension for authoring watercolor earth Reveal.js presentations.
 
 ## Installation
