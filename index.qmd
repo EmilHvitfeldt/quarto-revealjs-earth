@@ -1,5 +1,7 @@
 ---
-format: earth-revealjs
+format: 
+  earth-revealjs:
+    footer: <https://github.com/EmilHvitfeldt/quarto-revealjs-earth>
 ---
 
 ## .theme-title1 {.theme-title1 .center}
